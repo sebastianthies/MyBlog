@@ -1,12 +1,12 @@
 +++
-title = "New Post"
+title = "Helllo World"
 date = 2021-12-16T18:39:16+01:00
 featured = true
 comment = true
 toc = true
 reward = true
 pinned = true
-categories = [
+categories = ["main"
 ]
 tags = [
   "Installation",
