@@ -21,3 +21,4 @@ images = []
   weight = 1
 +++
 bla
+![bla](images/tn.png)

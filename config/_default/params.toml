@@ -11,7 +11,7 @@ keywords = "Microsoft, Business Central, Dynamics NAV, AL"
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
 logo = false # Disable Logo
-brand = "SeTh"
+brand = "SeTh BC blog"
 
 palette = "blue" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
@@ -122,7 +122,7 @@ viewer = true # Image Viewer
 [reward]
   #alipay = "images/reward/alipay.png"
   #wechat = "images/reward/wechat.png"
-  #paypal = "images/reward/paypal.png"
+  paypal = "images/reward/qrcode.png"
   #patreon = "images/reward/patreon.png"
   #liberapay = "images/reward/liberapay.png"
 
