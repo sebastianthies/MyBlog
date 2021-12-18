@@ -1,6 +1,6 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "Hello World"
+date: 2021-12-18T11:30:03+00:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["first"]
@@ -12,7 +12,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "Desc Text."
-canonicalURL: "https://canonical.url/to/page"
+#canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -22,9 +22,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "my caption" # display caption under cover
+    image: "images/1765687.jpg" # image path/url
+    alt: "The world is yours" # alt text
+    caption: "The world is yours" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -33,4 +33,8 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-new great text
+Hello world.
+
+This is my new blog.
+
+Have fun.
