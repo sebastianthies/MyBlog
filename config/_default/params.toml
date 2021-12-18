@@ -3,7 +3,6 @@
 # titleSeparator = "|" # Title separator. Default to "-".
 
 description = "SeThs Blog related to Business Central topics"
-keywords = "Microsoft, Business Central, Dynamics NAV, AL"
 # images = ["site-feature-image.jpg"]
 
 # metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
