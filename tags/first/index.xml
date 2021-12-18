@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on SeThs Blog</title>
-    <link>https://sebastianthies.github.io/MyBlog/posts/</link>
-    <description>Recent content in Posts on SeThs Blog</description>
+    <title>first on SeThs Blog</title>
+    <link>https://sebastianthies.github.io/MyBlog/tags/first/</link>
+    <description>Recent content in first on SeThs Blog</description>
     <image>
       <url>https://sebastianthies.github.io/MyBlog/papermod-cover.png</url>
       <link>https://sebastianthies.github.io/MyBlog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 18:39:16 +0100</lastBuildDate><atom:link href="https://sebastianthies.github.io/MyBlog/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Helllo World</title>
-      <link>https://sebastianthies.github.io/MyBlog/posts/new-post/</link>
-      <pubDate>Thu, 16 Dec 2021 18:39:16 +0100</pubDate>
-      
-      <guid>https://sebastianthies.github.io/MyBlog/posts/new-post/</guid>
-      <description>bla </description>
-    </item>
-    
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://sebastianthies.github.io/MyBlog/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
       <link>https://sebastianthies.github.io/MyBlog/posts/new-samplepost/bla/</link>

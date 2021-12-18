@@ -1,1 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://sebastianthies.github.io/MyBlog/categories/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/series/docs/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/posts/new-post/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/tags/installation/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/categories/main/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/posts/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/series/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/tags/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/tags/upgrade/</loc><lastmod>2021-12-16T18:39:16+01:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/about/</loc><lastmod>2019-02-28T00:00:00+00:00</lastmod></url><url><loc>https://sebastianthies.github.io/MyBlog/archives/</loc></url><url><loc>https://sebastianthies.github.io/MyBlog/contact/</loc></url><url><loc>https://sebastianthies.github.io/MyBlog/faq/</loc></url><url><loc>https://sebastianthies.github.io/MyBlog/offline/</loc></url><url><loc>https://sebastianthies.github.io/MyBlog/search/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sebastianthies.github.io/MyBlog/categories/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/series/docs/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/posts/new-post/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/tags/installation/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/categories/main/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/posts/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/series/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/tags/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/tags/upgrade/</loc>
+    <lastmod>2021-12-16T18:39:16+01:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/tags/first/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/posts/new-samplepost/bla/</loc>
+    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/archives/</loc>
+  </url><url>
+    <loc>https://sebastianthies.github.io/MyBlog/search/</loc>
+  </url>
+</urlset>
