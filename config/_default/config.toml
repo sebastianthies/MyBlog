@@ -1,7 +1,7 @@
 baseURL = "https://sebastianthies.github.io/MyBlog/"
 title = "SetThs BLOG"
 theme = "papermod"
-copyright = "Copyright © 2021-{year} Sebastian Thies. All Rights Reserved."
+copyright = "Copyright © 2021 Sebastian Thies. All Rights Reserved."
 
 # Multilingual mode
 defaultContentLanguage = "en"
