@@ -19,6 +19,8 @@ images = []
 [menu.footer]
   parent = "docs"
   weight = 1
+[cover]
+    image = "images/tn.png" # image path/
 +++
 bla
 ![bla](images/tn.png)

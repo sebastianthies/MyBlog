@@ -1,6 +1,0 @@
-[[main]]
-  name = "Support"
-  identifier = "support"
-  weight = 40
-  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
-
