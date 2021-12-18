@@ -9,29 +9,11 @@
       <link>https://sebastianthies.github.io/MyBlog/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Dec 2021 18:39:16 +0100</lastBuildDate><atom:link href="https://sebastianthies.github.io/MyBlog/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Installation</title>
-      <link>https://sebastianthies.github.io/MyBlog/tags/installation/</link>
-      <pubDate>Thu, 16 Dec 2021 18:39:16 +0100</pubDate>
-      
-      <guid>https://sebastianthies.github.io/MyBlog/tags/installation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Upgrade</title>
-      <link>https://sebastianthies.github.io/MyBlog/tags/upgrade/</link>
-      <pubDate>Thu, 16 Dec 2021 18:39:16 +0100</pubDate>
-      
-      <guid>https://sebastianthies.github.io/MyBlog/tags/upgrade/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 18 Dec 2021 11:30:03 +0000</lastBuildDate><atom:link href="https://sebastianthies.github.io/MyBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>first</title>
       <link>https://sebastianthies.github.io/MyBlog/tags/first/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <pubDate>Sat, 18 Dec 2021 11:30:03 +0000</pubDate>
       
       <guid>https://sebastianthies.github.io/MyBlog/tags/first/</guid>
       <description></description>
