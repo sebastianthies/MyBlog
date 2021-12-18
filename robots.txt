@@ -1,2 +1,3 @@
 User-agent: *
+Disallow:
 Sitemap: https://sebastianthies.github.io/MyBlog/sitemap.xml
