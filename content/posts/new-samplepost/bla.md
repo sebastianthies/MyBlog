@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "First blog entry"
 #canonicalURL: "https://canonical.url/to/page"
 disableHLJS: false # to disable highlightjs
 disableShare: false
@@ -22,8 +22,8 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "images/1765687.jpg" # image path/url
-    alt: "The world is yours" # alt text
+    image: "posts/new-samplepost/world.jpg" # image path/url
+    alt: "The world is yours - picture" # alt text
     caption: "The world is yours" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
@@ -38,3 +38,4 @@ Hello world.
 This is my new blog.
 
 Have fun.
+![world is yours](../pokal.jpg)
