@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://sebastianthies.github.io/MyBlog/"
 title = "SetThs BLOG"
 theme = "hugo-theme-bootstrap"
 copyright = "Copyright © 2021-{year} Sebastian Thies. All Rights Reserved."
